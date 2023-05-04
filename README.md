@@ -39,3 +39,7 @@ source env/bin/activate
 # run
 python3 main.py
 ```
+
+## License
+
+[MIT](./LICENSE)
